@@ -2,6 +2,7 @@
 
 This repository contains the map functionality for the [Community Charity Platform](https://devpost.com/software/sharity-flicve).
 
+To Try: [Click Here](https://mysharity.vercel.app/)
 ## Features:
 
 **Charity Map System**: Developed using the Google Maps API to track user navigation and highlight nearby charities from a database of over 84,000 Canadian charities.
